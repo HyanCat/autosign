@@ -1,0 +1,12 @@
+{
+    "name": "hyancat/autosign",
+    "authors": [
+        {
+            "name": "HyanCat",
+            "email": "hyancat@live.cn"
+        }
+    ],
+    "require": {
+        "rmccue/requests": "^1.6"
+    }
+}

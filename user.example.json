@@ -1,0 +1,19 @@
+{
+    "qqgroup": [
+        {
+            "name": "小明",
+            "uin": "o0123456789",
+            "skey": "@zxcvbnm"
+        }
+    ],
+    "tieba": [
+        {
+            "name": "小明",
+            "bduss": ""
+        },
+        {
+            "name": "小红",
+            "bduss": ""
+        }
+    ]
+}
